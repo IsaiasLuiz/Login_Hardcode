@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Login_Hardcode</string>
+    <string name="registration_hint">Números do prontuário</string>
+    <string name="registration_label">Usuário</string>
+    <string name="password_label">Senha</string>
+    <string name="login_label">login</string>
+    <string name="toast_message">Os Campos usuário e senha devem ser preenchidos!</string>
+    <string name="welcome_message">Bem vindo</string>
+    <string name="error_message">Erro no login</string>
 </resources>
